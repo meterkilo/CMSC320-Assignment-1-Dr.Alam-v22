@@ -8,3 +8,11 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: advertising, can target specific demographics based on data analysis
 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: merge combines changes and rebase adds the changes onto the existing
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: data analysis skills
